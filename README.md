@@ -3,7 +3,7 @@
 **2. MySQL**  
 
 ## Entities
-### 1. ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+## 1. ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 ```java
 datasource.setServerName(value) 
 datasource.setDatabaseName(value)

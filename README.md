@@ -1,5 +1,7 @@
+# Configurations
+**1.SSMS**
 ## Entities
-#### SSMS
+#### 1.SSMS
 ```java
 datasource.setServerName(value) 
 datasource.setDatabaseName(value)

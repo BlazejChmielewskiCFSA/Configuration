@@ -11,7 +11,7 @@ datasource.setDatabaseName(value)
 ## 2. ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ```java
 spring.jpa.hibernate.ddl-auto=update
-spring.datasource.url=jdbc:mysql://${MYSQL_HOST:localhost}:3306/db_example
+spring.datasource.url=jdbc:mysql://localhost:3306/schema?useSSL=false
 spring.datasource.username=springuser
 spring.datasource.password=ThePassword
 #spring.jpa.show-sql: true

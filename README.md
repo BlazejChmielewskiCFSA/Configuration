@@ -1,2 +1,8 @@
 # Configuration
-My repository where i store my configs
+
+## Entities
+### SSMS
+```java
+datasource.setServerName(value) 
+datasource.setDatabaseName(value)
+```

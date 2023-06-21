@@ -1,5 +1,5 @@
 # Configurations
-**1. Apache Tomcat kill**
+**1. Apache Tomcat kill**  
 **2. SSMS**  
 **3. MySQL**  
 
@@ -9,7 +9,7 @@
 netstat -ano | findstr 8080
 taskkill /F /pid 1088
 ```
-## Entities
+# Entities
 ## 2. ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 ```java
 datasource.setServerName(value) 

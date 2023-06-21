@@ -1,8 +1,8 @@
 # Configurations
-**1. Apache Tomcat kill** 
-**1. Angular setup**  
-**1. SSMS**  
-**1. MySQL**  
+**1. Apache Tomcat kill**  
+**2. Angular setup**  
+**3. SSMS**  
+**4. MySQL**  
 
 ##
 ## 1. ![](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache-Tomcat&logoColor=black)

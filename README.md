@@ -20,14 +20,18 @@ ng serve
 ```
 ## 3. ![](https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ```html
-<html xmlns:th="http://www/thymeleaf.org">
+<html xmlns:th="http://www/thymeleaf.org"> - notacja odwołujaca do biblioteki 
+
 ```
 
 # Entities
 ## 4. ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
 ```java
-datasource.setServerName(value) 
-datasource.setDatabaseName(value)
+spring.datasource.url=jdbc:sqlserver://serverNameOrAdress;databaseName=nazwaBazyDanych;encrypt=true;trustServerCertificate=true
+spring.jpa.database-platform=org.hibernate.dialect.SQLServerDialect
+spring.datasource.driver-class-name=com.microsoft.sqlserver.jdbc.SQLServerDriver
+spring.datasource.username=user
+spring.datasource.password=User1234!
 ```
 ## 5. ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ```java

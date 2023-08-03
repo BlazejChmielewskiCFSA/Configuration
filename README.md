@@ -4,6 +4,7 @@
 **3. Thymleaf**  
 **4. SSMS**  
 **5. MySQL**  
+**6. MongoDb**  
 
 # Web
 ## 1. ![](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache-Tomcat&logoColor=black)
@@ -40,4 +41,9 @@ spring.datasource.url=jdbc:mysql://localhost:3306/schema?useSSL=false
 spring.datasource.username=springuser
 spring.datasource.password=ThePassword
 #spring.jpa.show-sql: true
+```
+
+## 6. ![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+```java
+spring.data.mongodb.uri=mongodb://localhost/shema
 ```
